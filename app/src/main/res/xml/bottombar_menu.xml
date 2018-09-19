@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/localizar"
+        title="@string/tab_localizar"
+        barColorWhenSelected="@color/colorPrimary"
+        icon="@drawable/ic_ubicacion"
+        />
+    <tab
+        id="@+id/inicio"
+        title="@string/tab_inicio"
+        barColorWhenSelected="@color/colorPrimary"
+        icon="@drawable/ic_inicio"
+        />
+    <tab
+        id="@+id/tiempoRestante"
+        title="@string/tab_tiempo"
+        barColorWhenSelected="@color/colorPrimary"
+        icon="@drawable/ic_reloj"
+        />
+</tabs>

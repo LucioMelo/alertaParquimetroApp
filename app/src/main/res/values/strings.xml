@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">alertaParquimetroApp</string>
+    <string name="title_activity_ubicacion">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Entrar</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_mapa">Map</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <string name="strDontHaveAccount">¿No tienes cuenta? ,</string>
+    <string name="strCreateHere">crea una aquí</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_NombreUsuario">Nombe de usuario</string>
+    <string name="hint_Contraseña">Contraseña</string>
+    <string name="hint_ConfirmPassword">Confirmar Contraseña</string>
+    <string name="textButtonUnete">REGISTRAR</string>
+
+    <string name="tab_tiempo">Tiempo Restante</string>
+    <string name="tab_inicio">Inicio</string>
+    <string name="tab_localizar">Localizar</string>
+
+</resources>
